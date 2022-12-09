@@ -1,0 +1,23 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "79647",
+      "name": "三角2",
+      "font_class": "sanjiao2",
+      "unicode": "f0121",
+      "unicode_decimal": 983329
+    },
+    {
+      "icon_id": "79648",
+      "name": "三角1",
+      "font_class": "sanjiao1",
+      "unicode": "f0122",
+      "unicode_decimal": 983330
+    }
+  ]
+}

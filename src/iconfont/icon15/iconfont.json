@@ -1,0 +1,16 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "5485622",
+      "name": "地址",
+      "font_class": "dizhi",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    }
+  ]
+}

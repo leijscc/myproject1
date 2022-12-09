@@ -1,0 +1,16 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "2121776",
+      "name": "裙子",
+      "font_class": "qunzi",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    }
+  ]
+}

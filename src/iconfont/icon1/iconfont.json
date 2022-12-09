@@ -1,0 +1,16 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "30852398",
+      "name": "西装",
+      "font_class": "SUIT",
+      "unicode": "e512",
+      "unicode_decimal": 58642
+    }
+  ]
+}
